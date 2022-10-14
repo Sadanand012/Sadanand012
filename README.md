@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **Email- sadanandmare8408@gmail.com**
 
-- ⚡ Fun fact I 💖💻Coding.
+- 👨‍💻 All of my projects are available at [https://sadanand012.github.io/](https://sadanand012.github.io/)
 
 - <a href="#" target="blank"><img align="center" src="https://png.pngtree.com/png-clipart/20190705/original/pngtree-vector-business-man-icon-png-image_4184077.jpg" alt="C******V" height="30" width="40" backgroundColor = "red"/> Resume To know </a>
 
@@ -27,45 +27,37 @@
 <a href="https://fb.com/sadanand.mare.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="FB" height="30" width="40" /></a>
 </p>
 <hr>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="vs"> <img src="" alt="Visual Studio" width="40" height="40"/> </a></p>
+
 
 <h3 align="center">My GitHub Stats💻.</h3>
 
 <div align="center">
-<img align="center" width="38%" src="https://github-readme-stats.vercel.app/api?username=Sadanand012&show_icons=true&theme=radical" />
+<img align="center" width="38%" src="https://github-readme-stats.vercel.app/api?username=Sadanand012&show_icons=true&theme=midnight" />
 
-<img align="center" width="38%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sadanand012&theme=dark&hide_border=false" />
+<img align="center" width="38%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sadanand012&theme=midnight&hide_border=false" />
 <br>
 <br>
-<img align="center" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadanand012&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<img align="center" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadanand012&theme=midnight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 <div>
 
 
 
 
-<!-- <h3 align="center">Languages and Tools:👁‍🗨</h3>
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 
-<br>
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-<hr>
-
-<h3 align="center">How to reach me:➰</h3>
- 
- <a align="left" href="#">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
- <a align="left" href="#">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
- <a align="left" href="#">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
- <a align="left" href="#">![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)</a>
- <a align="left" href="#">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
-<br>
- -->
 <br>
 <a href="#"><img alt="" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Sadanand012&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
