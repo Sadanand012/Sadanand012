@@ -2,7 +2,7 @@
 <h3 align="left">A passionate Java Backend Devloper from 🌏Pune.</h3>
 
 <p><img align="left" width="10%" src="https://komarev.com/ghpvc/?username=Sadanand012&label=Profile%20views&color=0969DA&style=flat" alt="Sadanand" /></p>
-
+<br>
 <hr>
 
 <h4 align="left">This is the place where I opensource stuffs and break things"👍"</h4> 
@@ -17,18 +17,19 @@
 
 - 👨‍💻 All of my projects are available at [https://sadanand012.github.io/](https://sadanand012.github.io/)
 
-- <a href="#" target="blank"><img align="center" src="https://png.pngtree.com/png-clipart/20190705/original/pngtree-vector-business-man-icon-png-image_4184077.jpg" alt="C******V" height="30" width="40" backgroundColor = "red"/> Resume To know </a>
+- <a href="#" target="blank"><img align="left" src="https://png.pngtree.com/png-clipart/20190705/original/pngtree-vector-business-man-icon-png-image_4184077.jpg" alt="C******V" height="30" width="40" backgroundColor = "red"/> Resume To know </a>
 
 
 <h3 align="left">Connect with me:💻</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sadanand-mare-a8396a223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="40" width="50" style="margin-right: 10px;" /></a>
-<a href="https://fb.com/sadanand.mare.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="FB" height="40" width="50" style="margin-right: 10px;" /></a>
-<a href="https://leetcode.com/Sadanand7/" target="blank"><img align="center" src="https://github.com/Sadanand012/Online_Doc/blob/main/assets/leetcode.png" alt="leetcode" height="40" width="50" style="margin-right: 10px;" /></a>
-<a href="https://www.hackerrank.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="40" width="50" style="margin-right: 10px;"/></a>
+<a href="https://www.linkedin.com/in/sadanand-mare-a8396a223/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="40" width="50" style="margin-right: 10px;" /></a>
+<a href="https://fb.com/sadanand.mare.7" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="FB" height="40" width="50" style="margin-right: 10px;" /></a>
+<a href="https://leetcode.com/Sadanand7/" target="blank"><img align="left" src="https://github.com/Sadanand012/Online_Doc/blob/main/assets/leetcode.png" alt="leetcode" height="40" width="50" style="margin-right: 10px;" /></a>
+<a href="https://www.hackerrank.com/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="40" width="50" style="margin-right: 10px;"/></a>
 </p>
+<br>
 <hr>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech Stack and Tools:</h3>
 <p align="left" ><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="50" style="margin-right: 10px;"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="50" style="margin-right: 10px;"/> </a>
@@ -42,27 +43,24 @@
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="50" style="margin-right: 10px;"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="vs"> <img src="https://github.com/Sadanand012/Online_Doc/blob/main/assets/VS%20code.jpg" alt="Visual Studio" width="40" height="50" style="margin-right: 10px;"/> </a></p>
 
+<hr>
+<h3>My GitHub Stats💻</h3>
 
-<h3 align="center">My GitHub Stats💻.</h3>
 
-<div align="center">
-<img align="center" width="38%" src="https://github-readme-stats.vercel.app/api?username=Sadanand012&show_icons=true&theme=midnight" />
+<img align="left" width="38%" src="https://github-readme-stats.vercel.app/api?username=Sadanand012&show_icons=true&theme=midnight" />
 
-<img align="center" width="38%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sadanand012&theme=midnight&hide_border=false" />
-<br>
-<br>
-<img align="center" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadanand012&theme=midnight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-<div>
+<img align="left" width="38%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sadanand012&theme=midnight&hide_border=false" />
+
+<img align="left" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadanand012&theme=midnight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
 
 
 
 
 
-<br>
 <a href="#"><img alt="" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Sadanand012&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-
+<hr>
 
 
 
