@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sadanand012.github.io/](https://sadanand012.github.io/)
 
-- <a href="#" target="blank"><img align="left" src="https://png.pngtree.com/png-clipart/20190705/original/pngtree-vector-business-man-icon-png-image_4184077.jpg" alt="C******V" height="30" width="40" backgroundColor = "red"/> Resume To know </a>
+- <a href="https://drive.google.com/file/d/1rhRaGS7Vkb3qgADXcgosa_y9S5f4eOKh/view?usp=sharing" target="blank"><img align="left" src="https://png.pngtree.com/png-clipart/20190705/original/pngtree-vector-business-man-icon-png-image_4184077.jpg" alt="C******V" height="30" width="40" backgroundColor = "red"/> Resume To know </a>
 
 
 <h3 align="left">Connect with me:💻</h3>
