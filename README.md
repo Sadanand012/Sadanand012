@@ -7,7 +7,7 @@
 
 <h4 align="left">This is the place where I opensource stuffs and break things"👍"</h4> 
 
-- 🔭 I’m currently working on **SB+JAVA=Assignments**
+- 🔭 I’m currently working on **Student Registration System**
 
 - 🌱 I’m currently learning **Spring Boot,Mysql.**
 
