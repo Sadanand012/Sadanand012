@@ -62,7 +62,6 @@
 
 <a href="#"><img alt="" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Sadanand012&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-<hr>
 
 
 
