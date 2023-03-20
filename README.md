@@ -25,7 +25,7 @@
 <a href="https://www.linkedin.com/in/sadanand-mare-a8396a223/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="40" width="50" style="margin-right: 10px;" /></a>
 <a href="https://fb.com/sadanand.mare.7" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="FB" height="40" width="50" style="margin-right: 10px;" /></a>
 <a href="https://leetcode.com/Sadanand7/" target="blank"><img align="left" src="https://github.com/Sadanand012/Online_Doc/blob/main/assets/leetcode.png" alt="leetcode" height="40" width="50" style="margin-right: 10px;" /></a>
-<a href="https://www.hackerrank.com/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="40" width="50" style="margin-right: 10px;"/></a>
+<a href="https://www.hackerrank.com/sadamare8408" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="40" width="50" style="margin-right: 10px;"/></a>
 </p>
 <br>
 <hr>
