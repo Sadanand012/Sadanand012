@@ -22,10 +22,10 @@
 
 <h3 align="left">Connect with me:💻</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sadanand-mare-a8396a223/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="40" width="50" style="margin-right: 10px;" /></a>
-<a href="https://fb.com/sadanand.mare.7" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="FB" height="40" width="50" style="margin-right: 10px;" /></a>
-<a href="https://leetcode.com/Sadanand7/" target="blank"><img align="left" src="https://github.com/Sadanand012/Online_Doc/blob/main/assets/leetcode.png" alt="leetcode" height="40" width="50" style="margin-right: 10px;" /></a>
-<!-- <a href="https://www.hackerrank.com/sadamare8408?hr_r=1" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="40" width="50" style="margin-right: 10px;"/></a> -->
+<a href="https://www.linkedin.com/in/sadanand-mare-a8396a223/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="40" width="50" style="margin-right: 10px;" /></a>
+<a href="https://fb.com/sadanand.mare.7" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="FB" height="40" width="50" style="margin-right: 10px;" /></a>
+<a href="https://leetcode.com/Sadanand7/" target="_blank"><img align="left" src="https://github.com/Sadanand012/Online_Doc/blob/main/assets/leetcode.png" alt="leetcode" height="40" width="50" style="margin-right: 10px;" /></a>
+<!-- <a href="https://www.hackerrank.com/sadamare8408?hr_r=1" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="40" width="50" style="margin-right: 10px;"/></a> -->
 </p>
 <br>
 <hr>
@@ -38,7 +38,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="50" style="margin-right: 10px;"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"width="40" height="50" style="margin-right: 10px;"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="50" style="margin-right: 10px;"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="50" style="margin-right: 10px;"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="50" style="margin-right: 10px;"/> </a> 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="50" style="margin-right: 10px;"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="50" style="margin-right: 10px;"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="50" style="margin-right: 10px;"/> </a>
