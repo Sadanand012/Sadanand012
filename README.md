@@ -7,9 +7,9 @@
 
 <h4 align="left">This is the place where I opensource stuffs and break things"👍"</h4> 
 
-- 🔭 I’m currently working on **SB and AWS**
+- 🔭 I’m currently working on **FlyersSoft**
 
-- 🌱 I’m currently learning **Spring Boot,Mysql.**
+- 🌱 I’m currently learning **Node.js, Express, and MongoDB**
 
 - 💬 Ask me about **HTML CSS JAVASCRIPT JAVA SQL SB.**
 
