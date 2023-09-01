@@ -1,19 +1,19 @@
-<h1>Hi there 👋 I'm Sadanand Mare</h1>
-<h3 align="left">A passionate Java Backend Devloper from 🌏Pune.</h3>
+<h1>Hi there 👋 I'm Sadanand (Sandy)</h1>
+<h3 align="left">A passionate Backend Devloper from 🌏.</h3>
 
 <!-- <p><img align="left" width="10%" src="https://komarev.com/ghpvc/?username=Sadanand012&label=Profile%20views&color=0969DA&style=flat" alt="Sadanand" /></p> -->
 <br>
 <hr>
 
-<h4 align="left">This is the place where I opensource stuffs and break things"👍"</h4> 
+<h4 align="left">This is the place where I open source stuffs and break things"👍"</h4> 
 
-- 🔭 I’m currently working on **FlyersSoft**
+- 🔭 I’m currently working on **MYOB**
 
 - 🌱 I’m currently learning **Node.js, Express, and MongoDB**
 
-- 💬 Ask me about **HTML CSS JAVASCRIPT JAVA SQL SB.**
+- 💬 Ask me about **HTML CSS JAVASCRIPT JAVA SQL SB Node.js MongoDB express**
 
-- 📫 How to reach me **Email- sadanandmare8408@gmail.com**
+- 📫 How to reach me **Email- http://bit.ly/s-m-portfolio**
 
 - 👨‍💻 All of my projects are available at [https://sadanand012.github.io/](https://sadanand012.github.io/)
 
