@@ -5,7 +5,7 @@
 <br>
 <hr>
 
-<h4 align="left">This is the place where I open source stuffs and break things"👍"</h4> 
+<h4 align="left">This is the place where I open source stuff and break things"👍"</h4> 
 
 - 🔭 I’m currently working on **MYOB**
 
@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sadanand012.github.io/](https://sadanand012.github.io/)
 
-- <a href="https://drive.google.com/file/d/1rhRaGS7Vkb3qgADXcgosa_y9S5f4eOKh/view?usp=sharing" target="blank"><img align="left" src="https://png.pngtree.com/png-clipart/20190705/original/pngtree-vector-business-man-icon-png-image_4184077.jpg" alt="C******V" height="30" width="40" backgroundColor = "red"/> Resume To know </a>
+- <a href="" target="blank"><img align="left" src="https://png.pngtree.com/png-clipart/20190705/original/pngtree-vector-business-man-icon-png-image_4184077.jpg" alt="C******V" height="30" width="40" backgroundColor = "red"/> Resume To know </a>
 
 
 <h3 align="left">Connect with me:💻</h3>
